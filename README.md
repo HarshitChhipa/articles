@@ -15,3 +15,10 @@
 14.https://hackernoon.com/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4
 15.https://dzone.com/articles/angular-4-the-butterfly-not-the-cocoon?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_198
 16.http://www.gistia.com/create-use-custom-components-angular-2/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_198
+
+Stack 2
+
+1.https://community.risingstack.com/writing-secure-node-js-code-danny-grander/
+2.https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d
+3.https://medium.com/dailyjs/rewriting-javascript-converting-an-array-of-objects-to-an-object-ec579cafbfc7
+4.https://www.sitepoint.com/shell-scripts-javascript/
