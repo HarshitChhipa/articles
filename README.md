@@ -42,3 +42,8 @@ Stack 3
 16. https://www.toptal.com/virtual-reality/virtual-reality-in-the-automotive-industry?utm_source=Facebook&utm_content=&utm_medium=paidsocial&utm_campaign=dev_awa_ppe_blog_virtual-reality-in-the-automotive-industry_as_w_dev
 17. https://medium.com/@agafonkin/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a
 18. https://medium.com/@adambene/currying-in-javascript-es6-540d2ad09400
+
+Stack 4
+1. http://johnmathews.eu/
+2. https://redditblog.com/2017/05/24/view-counting-at-reddit/
+3. 
