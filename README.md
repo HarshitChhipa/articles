@@ -46,4 +46,9 @@ Stack 3
 Stack 4
 1. http://johnmathews.eu/
 2. https://redditblog.com/2017/05/24/view-counting-at-reddit/
-3. 
+3. https://nodesource.com/blog/getting-started-with-vs-code-for-node-js-development
+4. https://medium.freecodecamp.com/how-to-build-and-deploy-a-multifunctional-twitter-bot-49e941bb3092
+5. https://blog.risingstack.com/important-features-fixes-node-js-version-8/
+6. https://blog.dmbcllc.com/functional-reactive-angular-revealed/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_203
+7. https://hackernoon.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e
+8. 
