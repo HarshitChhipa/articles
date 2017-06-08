@@ -51,4 +51,9 @@ Stack 4
 5. https://blog.risingstack.com/important-features-fixes-node-js-version-8/
 6. https://blog.dmbcllc.com/functional-reactive-angular-revealed/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_203
 7. https://hackernoon.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e
-8. 
+8. http://start.jcolemorrison.com/the-hitchhikers-video-guide-to-aws-ecs-and-docker/
+9. https://www.smashingmagazine.com/2017/05/chatbot-microsoft-bot-framework-luis-nodejs-part1/
+10. https://medium.com/curated-by-versett/building-maintainable-angular-2-applications-5b9ec4b463a1
+11. https://blog.risingstack.com/getting-started-with-aws-lambda-and-node-js/
+12. https://medium.com/@patrickackerman/writing-a-firebase-clone-with-postgresql-and-node-js-part-i-d0bf1d8f0ea8
+13. 
